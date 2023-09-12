@@ -18,8 +18,8 @@ def get_info():
     current_time_utc_str = current_time_utc.strftime('%Y-%m-%dT%H:%M:%SZ')
 
     # GitHub file URL and repo URL
-    github_file_url = "https://github.com/username/repo/blob/main/file_name.ext"
-    github_repo_url = "https://github.com/username/repo"
+    github_file_url = "https://github.com/Williams-bo/HNG-hosting/blob/main/app.py"
+    github_repo_url = "https://github.com/Williams-bo/HNG-hosting"
 
     # Construct the response JSON
     response_data = {
